@@ -1,0 +1,1 @@
+### Used vanilla GAN to generate the anime faces ###
